@@ -1,7 +1,7 @@
-Good to see you!
+Good to see you! :mage:
 
-My blog: https://devicemanagement.home.blog/  
-Twitter: https://twitter.com/0fflineDocs  
+My blog: https://devicemanagement.home.blog/  :cloud:
+Twitter: https://twitter.com/0fflineDocs :computer:
 Github: https://github.com/Sculpin90  
 
 
@@ -10,7 +10,9 @@ Github: https://github.com/Sculpin90
 
 
 
-
+:gem: :gem: :gem: :gem: :gem:  
+:gem: :gem:  
+:gem:  
 
 
 
