@@ -3,7 +3,7 @@ Good to see you! :mage:
 My blog: https://devicemanagement.home.blog/  
 Twitter: https://twitter.com/0fflineDocs   
 Github: https://github.com/Sculpin90       
-Current Project: [Security Posture!](https://github.com/Sculpin90/Powershell/projects/1) :cloud:  
+Current Project: [Security Posture](https://github.com/Sculpin90/Powershell/projects/1) :cloud:  
   
    
   
