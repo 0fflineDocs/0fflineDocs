@@ -1,8 +1,8 @@
 Good to see you! :mage:
 
-My blog: https://devicemanagement.home.blog/  
-Twitter: https://twitter.com/0fflineDocs   
-Github: https://github.com/Sculpin90       
+My blog: [Device Management](https://devicemanagement.home.blog/)  
+Twitter: [0fflineDocs](https://twitter.com/0fflineDocs)   
+Github: [Sculpin90](https://github.com/Sculpin90)       
 Current Project: [Security Posture](https://github.com/Sculpin90/Powershell/projects/1) :cloud:  
   
    
