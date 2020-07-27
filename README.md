@@ -1,6 +1,6 @@
 Good to see you! :mage:
 
-My blog: https://devicemanagement.home.blog/ :cloud: 
+My blog: https://devicemanagement.home.blog/ :cloud:   
 Twitter: https://twitter.com/0fflineDocs  
 Github: https://github.com/Sculpin90      
   
