@@ -11,7 +11,7 @@ Current Project: [Security Posture](https://github.com/Sculpin90/Powershell/proj
   
   
   
-![Banner](https://raw.githubusercontent.com/Sculpin90/Rykostars/master/Banner50percent.png?token=AGB3E5PKJJAOXWH3QO4CLES7D2OYQ)
+![Banner](https://github.com/Sculpin90/Rykostars/blob/master/Banner50percent.png)
 
 <!--
 **Sculpin90/Sculpin90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
