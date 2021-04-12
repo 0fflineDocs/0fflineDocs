@@ -33,9 +33,9 @@ Current Project: [Security Posture](https://github.com/0fflinedocs/Powershell/pr
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
   
- 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=0fflineDocs.0fflineDocs)
+
 <!--
 **0fflinedocs//0fflinedocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=0fflineDocs.0fflineDocs)
