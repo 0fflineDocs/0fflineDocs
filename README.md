@@ -1,8 +1,8 @@
 Good to see you! :mage:
 
 My blog: [Modern Device Management](https://simonhakansson.com)  
-[Twitter](https://twitter.com/0fflineDocs)   
-[Github](https://github.com/0fflinedocs)       
+Reach me at: [Twitter](https://twitter.com/0fflineDocs)   
+You are here: [Github](https://github.com/0fflinedocs)       
 Current Project: [Security Posture](https://github.com/0fflinedocs/Powershell/projects/1) :cloud:  
   
    
