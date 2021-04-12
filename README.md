@@ -1,3 +1,5 @@
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0fflineDocs.0fflineDocs)
+
 Good to see you! :mage:
 
 My blog: [Modern Device Management](https://simonhakansson.com)  
