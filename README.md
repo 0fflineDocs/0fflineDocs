@@ -1,5 +1,3 @@
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0fflineDocs.0fflineDocs)
-
 Good to see you! :mage:
 
 My blog: [Modern Device Management](https://simonhakansson.com)  
@@ -39,3 +37,5 @@ Current Project: [Security Posture](https://github.com/0fflinedocs/Powershell/pr
 <!--
 **0fflinedocs//0fflinedocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=0fflineDocs.0fflineDocs)
