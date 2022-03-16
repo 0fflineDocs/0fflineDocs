@@ -3,7 +3,7 @@ Good to see you! :mage:
 My blog: [Cloud Endpoint Blog](https://simonhakansson.com)  
 Reach me at: [Twitter](https://twitter.com/0fflineDocs)   
 You are here: [Github](https://github.com/0fflinedocs)       
-Current Project: [Security Posture](https://github.com/0fflinedocs/Powershell/projects/1) :cloud:  
+Current Project: [Security Posture](https://github.com/0fflineDocs/Powershell/tree/master/Windows/SecurityPosture) :cloud:  
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
