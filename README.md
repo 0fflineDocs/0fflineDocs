@@ -1,4 +1,4 @@
-Posts on Medium:  [Medium](https://0fflinedocs.medium.com/)  :cloud:  
+Tech Posts:  [Medium](https://0fflinedocs.medium.com/)  :cloud:  
 Reach me at:  [Twitter](https://twitter.com/0fflineDocs)   
 You are here:  [Github](https://github.com/0fflinedocs)       
 Current Project:  [Security Posture](https://github.com/0fflineDocs/Powershell/tree/master/Windows/SecurityPosture)  
