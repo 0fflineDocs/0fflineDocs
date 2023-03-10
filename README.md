@@ -1,4 +1,4 @@
-Blog:  [Medium](https://0fflinedocs.medium.com/)  :cloud:  
+Blog:  [Medium](https://simonhakansson.com/)  :cloud:  
 Reach me at:  [Twitter](https://twitter.com/0fflineDocs)   
 You are here:  [Github](https://github.com/0fflinedocs)       
 Current Project:  [Security Posture](https://github.com/0fflineDocs/Powershell/tree/master/Windows/SecurityPosture)  
