@@ -3,11 +3,6 @@
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=for-the-badge)
 ![Proton Badge](https://img.shields.io/badge/Proton-6D4AFF?logo=proton&logoColor=fff&style=for-the-badge)
 
-![EyeTech](https://github.com/0fflineDocs/0fflineDocs/assets/25408117/19cba9c8-4748-42aa-8046-12cb564497eb)
-
-
-<!--
-Icons: https://simpleicons.org/
-Badges: https://badges.pages.dev/
-**0fflinedocs//0fflinedocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+<!--- ![EyeTech](https://github.com/0fflineDocs/0fflineDocs/assets/25408117/19cba9c8-4748-42aa-8046-12cb564497eb) --->
+  ![tool-eye](https://github.com/user-attachments/assets/8e79536d-72b7-497e-b8c7-b6205269ed77)      
+<!---  ![tool-eye](https://github.com/user-attachments/assets/8e79536d-72b7-497e-b8c7-b6205269ed77) --->
