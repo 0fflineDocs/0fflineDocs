@@ -16,5 +16,6 @@
   <img
     src="https://0fflineDocs.pythonanywhere.com"
     alt="Current Spotify Song"
+   ?spin=true&scan=true&eq_color=rainbow&theme=dark
   />
 </a>
