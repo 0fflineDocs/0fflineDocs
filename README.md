@@ -12,7 +12,7 @@
 
 ![tool-eye](https://github.com/user-attachments/assets/8e79536d-72b7-497e-b8c7-b6205269ed77)      
 
-<a href="https://0fflineDocs.pythonanywhere.com/?spin=true&scan=true&eq_color=rainbow&theme=dark">
+<a href="https://0fflineDocs.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark">
   <img
     src="https://0fflineDocs.pythonanywhere.com"
     alt="Current Spotify Song"
