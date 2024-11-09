@@ -14,7 +14,7 @@
 
 <a href="https://0fflineDocs.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark">
   <img
-    src="https://0fflineDocs.pythonanywhere.com"
+    src="https://0fflineDocs.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
   />
 </a>
