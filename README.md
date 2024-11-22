@@ -13,10 +13,10 @@
 
 <a href="https://github.com/0fflineDocs/Microsoft-Entra">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=0fflineDocs&repo=Microsoft-Entra&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=0fflineDocs&repo=Microsoft-Entra&theme=tokyonight" />
 </a>    
 
 <a href="https://github.com/0fflineDocs/KQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=0fflineDocs&repo=KQL&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=0fflineDocs&repo=KQL&theme=gruvbox" />
 </a>
