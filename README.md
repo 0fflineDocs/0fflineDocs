@@ -13,7 +13,7 @@
 
 <a href="https://github.com/0fflineDocs/Microsoft-Entra">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=0fflineDocs&repo=Microsoft-Entra&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=0fflineDocs&repo=Microsoft-Entra&theme=synthwave" />
 </a>    
 
 <a href="https://github.com/0fflineDocs/KQL/">
