@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/f4be5f26-611a-4895-a7a1-305db179b367)
+![bluesky](https://github.com/user-attachments/assets/78605627-f080-47ea-8a7d-f332c6a7b817)
 
 <a href="https://0fflineDocs.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark">
   <img
