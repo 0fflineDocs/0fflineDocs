@@ -1,4 +1,4 @@
-![github-resume](https://github.com/user-attachments/assets/4f630164-e9d2-42a9-b7f6-c7f99d740548)
+![github](https://github.com/user-attachments/assets/f4be5f26-611a-4895-a7a1-305db179b367)
 
 <a href="https://0fflineDocs.pythonanywhere.com/?spin=true&eq_color=rainbow&theme=dark">
   <img
