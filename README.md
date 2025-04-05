@@ -2,7 +2,7 @@
 
 [![Prompt Library](https://img.shields.io/badge/Prompt_Library-Discover_Prompts-FF6F00?style=for-the-badge&logo=openai)](https://prompt-library-snowy.vercel.app/)
 [![KQL Library](https://img.shields.io/badge/KQL_Library-Explore_KQL_Queries-5C2D91?style=for-the-badge)](https://kql-library.vercel.app/)
-[![EntraID Infographic](https://img.shields.io/badge/EntraID_Infographic-Interactive_Guide-0078D4?style=for-the-badge)](https://0fflinedocs.github.io/EntraID-Infographic/)
+[![Entra ID](https://img.shields.io/badge/Entra_ID-Infographic-0078D4?style=for-the-badge)](https://0fflinedocs.github.io/EntraID-Infographic/)
 
 ---
 
