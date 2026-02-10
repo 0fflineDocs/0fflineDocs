@@ -26,7 +26,7 @@ Interactive visualization of Microsoft's Zero Trust model.
 </td>
 <td width="50%">
 
-#### Compliance Navigator](https://compliance-navigator-opal.vercel.app/)
+#### [Compliance Navigator](https://compliance-navigator-opal.vercel.app/)
 Navigate NCSC, NIS2, & DORA.
 </td>
 </tr>
