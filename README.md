@@ -1,6 +1,6 @@
 ![0fflinedocs-space-shooter](https://github.com/user-attachments/assets/23d100cf-17d9-4b48-ac21-ff210348cb6c)
 
-## Current Experimental Projects
+## Resources
 
 #### [KQL Library](https://kql-library.vercel.app/) - [Prompt Library](https://prompt-library-snowy.vercel.app/) - [Zero Trust Architecture](https://cybersecurity-compendium.vercel.app/) - [Compliance Navigator](https://compliance-navigator-opal.vercel.app/) - [CSS Gallery](https://css-gallery-psi.vercel.app/)
 
