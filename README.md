@@ -2,7 +2,7 @@
 
 ## Resources
 
-#### [KQL Library](https://kql-library.vercel.app/) - [Prompt Library](https://prompt-library-snowy.vercel.app/) - [Zero Trust Architecture](https://cybersecurity-compendium.vercel.app/) - [Compliance Navigator](https://compliance-navigator-opal.vercel.app/) - [CSS Gallery](https://css-gallery-psi.vercel.app/)
+#### [KQL Library](https://kql-library.vercel.app/) - [Prompt Library](https://prompt-library-snowy.vercel.app/) - [Security Copilot](https://security-copilot.vercel.app/) -  [Zero Trust Architecture](https://cybersecurity-compendium.vercel.app/) - [Compliance Navigator](https://compliance-navigator-opal.vercel.app/) - [CSS Gallery](https://css-gallery-psi.vercel.app/)
 
 ![](https://img.shields.io/badge/Threat_Hunting-2563EB?style=flat)
 ![](https://img.shields.io/badge/Generative_AI-EA580C?style=flat) 
