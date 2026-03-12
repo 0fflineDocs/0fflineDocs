@@ -3,7 +3,7 @@
 [![KQL](https://img.shields.io/badge/KQL-Library-blue?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/KQL-Library)
 [![Prompt](https://img.shields.io/badge/Prompt-Library-red?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/Prompt-Library)
 [![Security](https://img.shields.io/badge/Security-Copilot-blue?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/Security-Copilot)
-[![MCRA Compendium](https://img.shields.io/badge/MCRA-Compendium-green?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/MCRA-Compendium)
+[![MSecurity License Map](https://img.shields.io/badge/Security-LicenseMap-green?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/MCRA-Compendium)
 [![Compliance Navigator](https://img.shields.io/badge/Compliance-Navigator-purple?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/Compliance-Navigator)
 [![CSS Gallery](https://img.shields.io/badge/CSS-Gallery-orange?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/CSS-Gallery)
 
