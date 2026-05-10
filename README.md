@@ -1,14 +1,10 @@
-![0fflinedocs-space-shooter](https://github.com/user-attachments/assets/23d100cf-17d9-4b48-ac21-ff210348cb6c)
+<img width="2172" height="724" alt="HermesLabs" src="https://github.com/user-attachments/assets/1453f52e-60ae-4cf5-949e-6bd0639f9389" />
+
+---
 
 [![KQL](https://img.shields.io/badge/KQL-Library-blue?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/KQL-Library)
 [![Prompt](https://img.shields.io/badge/Prompt-Library-red?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/Prompt-Library)
-[![Security](https://img.shields.io/badge/Security-Copilot-blue?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/Security-Copilot)
-[![MSecurity License Map](https://img.shields.io/badge/Security-LicenseMap-green?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/MCRA-Compendium)
-[![Compliance Navigator](https://img.shields.io/badge/Compliance-Navigator-purple?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/Compliance-Navigator)
 [![CSS Gallery](https://img.shields.io/badge/CSS-Gallery-orange?style=for-the-badge&logo=github&logoColor=white&link=URL)](https://github.com/0fflineDocs/CSS-Gallery)
-
-##
-
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
